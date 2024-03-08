@@ -14,7 +14,7 @@ const NavBar = () => {
             </div>
   <div class="containerNavBar container-fluid">
     <div className="ponto"></div>
-    <a class="navbar-brand text-white" href="#">Ao Vivo</a>
+    <a class="navbar-brand text-white" href="/livevideo">Ao Vivo</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
