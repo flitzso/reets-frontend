@@ -10,7 +10,6 @@ const LiveVideo = () => {
         <TwitchEmbed
           channel="fritzshow_"
           parent={['www.reets.online']}
-          parent={['reets.online']}
           allowfullscreen={true}
         />
       </div>
