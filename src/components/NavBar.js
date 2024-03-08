@@ -33,7 +33,7 @@ const NavBar = () => {
           <a class="nav-link text-white" href="#" tabindex="-1" aria-disabled="true">Semanal</a>
         </li>
         <li class="login nav-item">
-          <a class="nav-link text-warning" href="#" tabindex="-1" aria-disabled="true">LOGIN</a>
+          <a class="nav-link text-warning" href="#" tabindex="-1" aria-disabled="true">Esta com sorte?</a>
         </li>
       </ul>
     </div>
