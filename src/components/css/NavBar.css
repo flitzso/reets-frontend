@@ -1,0 +1,40 @@
+.navbar {
+    background-color: black;
+}
+
+.logoReets {
+    position: relative;
+    left: 3%;
+    right: auto;
+    width: 50px; 
+    height: auto;
+}
+
+.containerNavBar {
+    position: relative;
+    left: 30%;
+    right: auto;
+}
+
+.ponto {
+    width: 10px;
+    height: 10px;
+    background-color: red;
+    border-radius: 50%;
+    animation: piscar 1s infinite alternate; /* Define a animação "piscar" */
+  }
+  
+  @keyframes piscar {
+    from {
+      opacity: 1; /* Começa visível */
+    }
+    to {
+      opacity: 0; /* Termina invisível */
+    }
+  }
+
+  .login {
+    position: relative;
+    left: 85%;
+    right: auto;
+  }
