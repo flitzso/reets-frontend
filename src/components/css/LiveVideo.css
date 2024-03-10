@@ -1,5 +1,7 @@
-body {
+.twitch-embed-container {
     background-color: black;
+    width: 100%; /* Defina a largura do contêiner */
+    height: 700px; /* Defina a altura do contêiner */
 }
 
 .twitch-embed {
@@ -8,4 +10,5 @@ body {
     width: 900px;
     left: 18%;
     right: auto;  
+    margin-top: 3%;
 }
