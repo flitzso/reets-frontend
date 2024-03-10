@@ -1,0 +1,12 @@
+[
+    {
+      "titulo": "Notícia 1",
+      "conteudo": "Conteúdo da Notícia 1",
+      "imagem": "/imagens/noticia1.jpg"
+    },
+    {
+      "titulo": "Notícia 2",
+      "conteudo": "Conteúdo da Notícia 2",
+      "imagem": "/imagens/noticia2.jpg"
+    }
+  ]
